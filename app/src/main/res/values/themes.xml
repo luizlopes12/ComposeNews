@@ -3,5 +3,6 @@
     <style name="Theme.NewsApp" parent="android:Theme.Material.Light.NoActionBar">
         <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:statusBarColor">@color/status_bar_color</item>
     </style>
 </resources>
